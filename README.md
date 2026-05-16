@@ -43,26 +43,26 @@ Traditional attendance methods (roll calls or ID card swiping) are time-consumin
 <div align="center">
 
 ### Main Dashboard UI
-<img src="assets/screenshots/1_dashboard.png" alt="Main Dashboard UI" width="800">
+<img src="assets/screenshots/dashboard.png" alt="Main Dashboard UI" width="800">
 <p><i>The intuitive landing dashboard featuring Student Registration, Attendance Tracking, and Reporting.</i></p>
 <br>
 
 ### Student Registration
-<img src="assets/screenshots/2_registration.png" alt="Student Registration" width="600">
+<img src="assets/screenshots/registration.png" alt="Student Registration" width="600">
 <p><i>Easy entry of Enrollment Numbers and Student Names before capturing training datasets.</i></p>
 <br>
 
 ### Dataset Collection
 <p align="center">
-  <img src="assets/screenshots/3_dataset.png" alt="Training Started" width="400">
+  <img src="assets/screenshots/training_1.png" alt="Training Started" width="400">
   &nbsp; &nbsp; &nbsp;
-  <img src="assets/screenshots/4_dataset.png" alt="Capturing Images" width="400">
+  <img src="assets/screenshots/training_2.png" alt="Capturing Images" width="400">
 </p>
 <p><i>The system captures multiple variations of the subject's face to train a highly accurate ML model.</i></p>
 <br>
 
 ### Live Attendance Detection
-<img src="assets/screenshots/5_attendance.png" alt="Live Attendance Detection" width="800">
+<img src="assets/screenshots/live_attendance.png" alt="Live Attendance Detection" width="800">
 <p><i>Real-time face detection mapping a live subject to their ID and securely logging it.</i></p>
 <br>
 
