@@ -59,7 +59,7 @@ BORDER_COLOR = "#cbd5e1"    # Subtle Border
 
 # Modern UI Setup
 window = Tk()
-window.title("CLASS VISION - Smart Attendance System")
+window.title("AURA - Smart Attendance System")
 window.geometry("1400x800")
 window.state('zoomed')  # Start maximized
 window.configure(bg=BG_COLOR)  # Premium dark background
@@ -129,7 +129,7 @@ logo_label.pack(side=LEFT, padx=(50, 20))
 
 title_label = tk.Label(
     title_frame, 
-    text="CLASS VISION", 
+    text="AURA", 
     bg=BG_COLOR, 
     fg=TEXT_COLOR, 
     font=("Inter", 36, "bold")
@@ -155,7 +155,7 @@ welcome_frame.pack(fill=X, pady=(0, 50))
 
 welcome_label = tk.Label(
     welcome_frame,
-    text="Welcome to CLASS VISION",
+    text="Welcome to AURA",
     bg=BG_COLOR,
     fg=TEXT_COLOR,
     font=("Inter", 32, "bold"),
@@ -585,7 +585,7 @@ status_frame.pack(fill=X, side=BOTTOM)
 
 status_label = tk.Label(
     status_frame,
-    text=f"© 2025 CLASS VISION | Ready • System Time: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+    text=f"© 2025 AURA | Ready • System Time: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
     bg=BG_COLOR,
     fg=ACCENT_COLOR,
     font=("Segoe UI", 10)

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 CLASS VISION 🌟
+# 🌟 AURA 🌟
 ### Smart Attendance Management System Using Face Recognition and Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -20,11 +20,11 @@
 
 ## 📖 Project Overview
 
-**CLASS VISION** is a cutting-edge **Smart Attendance Management System** that leverages **Machine Learning** and **Computer Vision** to automate the process of recording attendance. Built primarily on Python and OpenCV, the system identifies students via live webcam feeds, matches their facial features against a trained Local Binary Patterns Histograms (LBPH) model, and logs their attendance instantly. The rich **Tkinter Graphical User Interface (GUI)** makes it easy to register new students, train the AI model, track subject-wise classes, and generate highly detailed **Excel Analytics Reports**. 
+**AURA** is a cutting-edge **Smart Attendance Management System** that leverages **Machine Learning** and **Computer Vision** to automate the process of recording attendance. Built primarily on Python and OpenCV, the system identifies students via live webcam feeds, matches their facial features against a trained Local Binary Patterns Histograms (LBPH) model, and logs their attendance instantly. The rich **Tkinter Graphical User Interface (GUI)** makes it easy to register new students, train the AI model, track subject-wise classes, and generate highly detailed **Excel Analytics Reports**. 
 
 ## 🚨 Problem Statement
 
-Traditional attendance methods (roll calls or ID card swiping) are time-consuming, prone to human error, and susceptible to proxy attendance. There is a need for a seamless, secure, and automated system that operates non-intrusively while providing real-time data analytics. **CLASS VISION** solves this by using biometric facial recognition—ensuring that the right person is marked present instantly, thereby saving valuable administrative time and increasing accuracy.
+Traditional attendance methods (roll calls or ID card swiping) are time-consuming, prone to human error, and susceptible to proxy attendance. There is a need for a seamless, secure, and automated system that operates non-intrusively while providing real-time data analytics. **AURA** solves this by using biometric facial recognition—ensuring that the right person is marked present instantly, thereby saving valuable administrative time and increasing accuracy.
 
 ## ✨ Key Features
 
@@ -243,7 +243,7 @@ pyttsx3==2.90
 
 ## 🚀 Usage Instructions
 
-1. **Launch the App**: Run `python attendance.py` to open the CLASS VISION Dashboard.
+1. **Launch the App**: Run `python attendance.py` to open the AURA Dashboard.
 2. **Register a Student**:
    * Click **Register Student**.
    * Enter a unique numeric **Enrollment Number** and **Student Name**.

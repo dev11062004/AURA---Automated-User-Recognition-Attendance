@@ -15,7 +15,7 @@ def demo_attendance_completion():
     
     # This is the same code that runs after attendance is taken
     options_window = tkinter.Tk()
-    options_window.title("CLASS VISION - Attendance Management")
+    options_window.title("AURA - Attendance Management")
     options_window.geometry("1000x700")
     options_window.configure(bg="#1a1a2e")
     options_window.resizable(True, True)
@@ -48,7 +48,7 @@ def demo_attendance_completion():
     
     main_title = tkinter.Label(
         title_frame,
-        text="CLASS VISION",
+        text="AURA",
         bg=DARK_BG,
         fg=CYAN_COLOR,
         font=("Segoe UI", 24, "bold")
@@ -226,7 +226,7 @@ def demo_attendance_completion():
     # Status bar
     status_label = tkinter.Label(
         bottom_frame,
-        text=f"© 2025 CLASS VISION | Demo Mode • System Time: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+        text=f"© 2025 AURA | Demo Mode • System Time: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
         bg=DARK_BG,
         fg=CYAN_COLOR,
         font=("Segoe UI", 10)
